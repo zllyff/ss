@@ -1,3 +1,9 @@
+function(){
+	
+}
+
+
+
 //调用返回id为此id的元素对象。
 function $(id) {
 	return document.getElementById(id);
